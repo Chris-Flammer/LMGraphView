@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name             = "LMGraphView"
-  s.version          = "1.0.0"
+  s.version          = "1.1.0"
   s.summary          = "LMGraphView is a simple and customizable graph view for iOS."
   s.homepage         = "https://github.com/lminhtm/LMGraphView"
   s.license          = 'MIT'
